@@ -2,4 +2,5 @@
 
 > git clone - clone repository
 
-fork - слонирование чужого репозитория
+fork 
+
